@@ -1,4 +1,3 @@
-import { styleText } from "util";
 import cssStyle from "./about.module.css"
 
 console.log(cssStyle, "CSS-Style");
